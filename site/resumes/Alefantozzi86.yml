@@ -1,0 +1,57 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Alessandra
+  last_name: Fantozzi
+  motto: One day at a time!
+  focus: Programming
+  summary: optician and lens fitting specialist Currently studying full stacks
+    developer course
+  email: fantozziale86@gmail.com
+  phone: 697747531
+  linkedin: https://www.linkedin.com/in/alessandra-fantozzi-mazzola-497173174/
+  github: alefantozzi86
+  twitter: null
+  stack-overflow: null
+  languages:
+    - idiom: English
+      level: basico
+    - idiom: Spanish
+      level: Professional
+    - idiom: Italiano
+      level: medio
+  interests:
+    - item: Cocina
+    - item: Fotografia
+    - item: Yoga
+education:
+  - degree: FullStack Web Developer
+    university: 4Geeks Academy
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: enero2023- mayo2023
+    details: -Currently in formation process. 4 Geeks Academy student, for full
+      stack developer
+experiences:
+  - role: Student full stack developer
+    time: enero 2023- mayo 2023
+    company: 4Geeks Academy
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: ""
+projects:
+  intro: |
+    You can list your side projects or open source libraries in this section. 
+skills:
+  toolset:
+    - name: Python & Django
+      level: 0%
+    - name: Javascript & jQuery
+      level: 30%
+    - name: Angular
+      level: 0%
+    - name: HTML5 & CSS
+      level: 80%
+    - name: Ruby on Rails
+      level: 0%
+    - name: Photoshop
+      level: 50%
